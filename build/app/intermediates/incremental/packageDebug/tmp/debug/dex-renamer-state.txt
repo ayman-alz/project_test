@@ -1,0 +1,4 @@
+#Tue Jan 09 15:51:20 CET 2024
+base.0=C\:\\xampp64\\htdocs\\project_test\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

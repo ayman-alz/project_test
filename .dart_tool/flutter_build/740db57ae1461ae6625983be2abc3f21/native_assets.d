@@ -1,0 +1,1 @@
+ C:\\xampp64\\htdocs\\project_test\\.dart_tool\\flutter_build\\740db57ae1461ae6625983be2abc3f21\\native_assets.yaml: 
